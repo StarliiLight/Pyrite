@@ -1,7 +1,7 @@
-# bareiron
-Minimalist Minecraft server for memory-restrictive embedded systems.
+# Pyrite
+This is a version of **bareiron** that is less minimalistic, but has more blocks, and is made to offer more creativity. You can get to **bareiron** [here](https://github.com/p2r3/bareiron).
 
-The goal of this project is to enable hosting Minecraft servers on very weak devices, such as the ESP32. The project's priorities are, in order: **memory usage**, **performance**, and **features**. Because of this, compliance with vanilla Minecraft is not guaranteed, nor is it a goal of the project.
+The goal of ***this*** project is to be able to host Minecraft server cheaply. The pryorities of **Pyrite** are these, in order: **features**, **performance**, and **memory usage**. I also wish to enable mod support, though that might take a long time to implement. Please be patient. This is the order of priorities for implementaiton of mod loaders: **NeoForge**, **Fabric**, and **Forge**.
 
 - Minecraft version: `1.21.8`
 - Protocol version: `772`
