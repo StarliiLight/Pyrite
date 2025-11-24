@@ -191,8 +191,8 @@ extern uint16_t client_count;
 typedef struct {
   short x;
   short z;
-  uint8_t y;
-  uint8_t block;
+  int16_t y;
+  uint16_t block;
 } BlockChange;
 
 #pragma pack(push, 1)
